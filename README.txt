@@ -7,7 +7,7 @@ https://github.com/timp21337/scala_actor_performance/blob/master/Oops-installed-
  shows the graph is sensitive to other activities on the machine
 
 https://github.com/timp21337/scala_actor_performance/blob/master/TimeAgainstActors_2_cores.png
- shows nice performance at 2 cores
+ shows nice performance at 2 actors
 
 https://github.com/timp21337/scala_actor_performance/blob/master/TimeAgainstActors_loaded_2_cores.png
 shows confsing lack of improvement with 2 actors.
