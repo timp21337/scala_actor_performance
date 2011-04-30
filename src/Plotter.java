@@ -1,6 +1,14 @@
 import java.awt.*;
 import javax.swing.*;
- 
+ /**
+  * Double array plotter.
+  * 
+  * Copied from http://www.coderanch.com/t/344345/GUI/java/Simple-Graph.
+  * 
+  * @see http://www.coderanch.com/t/344345/GUI/java/Simple-Graph
+  * @author timp
+  * @since 2011/04/30
+  */
 public class Plotter extends JPanel {
     Double[] data = { 25.1, 60.1, 42.1};
     final int PAD = 20;

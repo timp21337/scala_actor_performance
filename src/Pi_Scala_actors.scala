@@ -2,6 +2,8 @@
  *  Calculation of Pi using quadrature realized with a scatter/gather approach using an actor system.
  * 
  *  Copyright å© 2009--2011 Russel Winder
+ *  
+ *  timp 2011/04/30 Extended to graph iteration of actors from 1 to 32.
  */
 
 //  TODO: Investigate why there is a slow-down using eight actors on a dual-core machine compared to using

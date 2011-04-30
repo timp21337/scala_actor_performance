@@ -1,5 +1,14 @@
 import javax.swing.JFrame;
 
+/**
+ * Plot a Double array.
+ * 
+ * Copied from http://www.coderanch.com/t/344345/GUI/java/Simple-Graph.
+ * 
+ * @see http://www.coderanch.com/t/344345/GUI/java/Simple-Graph
+ * @author timp
+ * @since 2011/04/30
+ */
 
 public class Plot {
   public Plot(Double[] data) { 
