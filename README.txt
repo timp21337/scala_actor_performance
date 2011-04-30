@@ -10,5 +10,5 @@ https://github.com/timp21337/scala_actor_performance/blob/master/TimeAgainstActo
  shows nice performance at 2 actors
 
 https://github.com/timp21337/scala_actor_performance/blob/master/TimeAgainstActors_loaded_2_cores.png
-shows confsing lack of improvement with 2 actors.
+shows confsing lack of improvement at 2 actors.
 
